@@ -6,7 +6,7 @@ The original dataset also has files containing 26 million ratings from 270,000 u
 
 Objective: 
 ----------
-Perform ETL - extract the data, clean it and load it into the database.
+Perform ETL Operations - extract the data, clean it and load it into the database.
 
 
 The original dataset is huge and has not been uploaded to GitHub.
